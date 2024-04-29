@@ -1,7 +1,8 @@
-import React from "react";
+import Example1 from "./UseRef/Example1";
+import Example2 from "./UseRef/Example2";
 
 const App = () => {
-  return <div>App</div>;
+  return <Example2 />;
 };
 
 export default App;
